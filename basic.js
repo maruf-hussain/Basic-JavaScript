@@ -44,7 +44,11 @@
 // let y = false;
 
 // // Objects..............
-// const personMaruf = {village:"Begunbari", Upazila:"companigong", District:"Noakhali"};
+// const personMaruf = {
+//     village:"Begunbari",
+//      Upazila:"companigong",
+//       District:"Noakhali"
+// };
 
 // // Array and Objects...........
 // const company = ["Apple", "Google", "Samsung"];
@@ -54,3 +58,45 @@
 
 
 // 3.Functions.***********************************************************************
+
+// let x = myFunction(5,6);
+// function myFunction(a, b){
+//     return a * b;
+// };
+
+// .........................
+// function lightOn(){
+//     console.log('Press Switch');
+// }
+// lightOn();
+// ..................................
+
+// function amarTaka(maruf){
+//    console.log(maruf);
+// };
+// amarTaka(500);
+
+// // .....................................
+
+// function bringChicken(money){
+//     console.log(money);
+// }
+// let price = 1500;
+// bringChicken(price);
+// ........................................
+// function add(num1, num2){
+//     var sum = num1 + num2;
+//     return sum;
+// };
+// var total = add(10,20);
+// console.log(total);
+// // ......................................
+// function bringApple(money){
+//     var applePrice = 20;
+//     var appleQuantity = money / applePrice;
+//     return appleQuantity;
+// };
+
+// var taka = 200;
+// var totalApple = bringApple(taka);
+// console.log(totalApple);
