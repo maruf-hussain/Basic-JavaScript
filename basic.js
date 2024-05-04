@@ -138,3 +138,25 @@
 // if(phonePrice < myBudget){
 //     console.log('Phone kinte parbo')
 // }
+
+// let jobHolder = true;
+// let montlySalary = 50000;
+
+// if(jobHolder == true && montlySalary > 50000){
+//     console.log('i am succesfully')
+// }
+
+// else{
+//     console.log('Parlam na')
+// }
+
+// let jobHolder = true;
+// let montlySalary = 60000;
+
+// if(jobHolder == false || montlySalary > 50000){
+//     console.log('i am succesfully')
+// }
+
+// else{
+//     console.log('Parlam na')
+// }
