@@ -100,3 +100,41 @@
 // var taka = 200;
 // var totalApple = bringApple(taka);
 // console.log(totalApple);
+
+// 4.Loops..*****************************************************************************
+// For In Loops.........................
+// for(var takaDin = 0; takaDin < 5; takaDin++){
+//     console.log('Doya Kore Amar Taka Din');
+// }
+
+// for(let i = 0; i < 10; i++){
+//     console.log(i);
+// }
+
+// for(let i = 1; i <= 10; i++){
+//     console.log(i);
+// }
+
+// even Number..........
+// for(let i = 0; i <= 20; i +=2 ){
+//     console.log(i);
+// }
+
+// let numburs = [48,43,77,33,13,90];
+// for(let i = 0; i < 5; i++){
+//     let number = numburs[i];
+//     console.log(number);
+// }
+// let numburs = [48,43,77,33,13,90,88,56,78];
+// for(let i = 0; i < numburs.length; i++){
+//     let number = numburs[i];
+//     console.log(number);
+// }
+
+// 5.Condition****************************************************************
+// let phonePrice = 50000;
+// let myBudget = 65000;
+
+// if(phonePrice < myBudget){
+//     console.log('Phone kinte parbo')
+// }
